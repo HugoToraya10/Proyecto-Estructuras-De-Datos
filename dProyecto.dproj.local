@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/03/30 16:14:49.000.018,=C:\Users\Hugo Toraya\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/30 16:20:49.000.280,C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\uFProyecto.pas=C:\Users\Hugo Toraya\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/30 16:20:49.000.280,C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\uFProyecto.dfm=C:\Users\Hugo Toraya\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/03/30 16:21:01.000.500,C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\dProyecto.dproj=C:\Users\Hugo Toraya\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/03/30 23:29:07.000.793,=C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/03/30 23:29:36.000.624,C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\Unit1.dfm=C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\uFJuegos.dfm</Transaction>
+    <Transaction>2024/03/30 23:29:36.000.624,C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\Unit1.pas=C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\uFJuegos.pas</Transaction>
+    <Transaction>2024/03/31 09:52:31.000.354,=C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/03/31 09:53:09.000.544,C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\Unit1.pas=C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\uFConfig.pas</Transaction>
+    <Transaction>2024/03/31 09:53:09.000.544,C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\Unit1.dfm=C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\uFConfig.dfm</Transaction>
+    <Transaction>2024/03/31 12:46:04.000.643,=C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/03/31 12:46:27.000.908,C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\Unit1.dfm=C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\formsJuegos\uFGato.dfm</Transaction>
+    <Transaction>2024/03/31 12:46:27.000.908,C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\Unit1.pas=C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\formsJuegos\uFGato.pas</Transaction>
+    <Transaction>2024/03/31 12:46:38.000.074,=C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\Unit2.pas</Transaction>
+    <Transaction>2024/03/31 12:46:50.000.123,C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\Unit2.dfm=C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\formsJuegos\uFAhorcado.dfm</Transaction>
+    <Transaction>2024/03/31 12:46:50.000.123,C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\Unit2.pas=C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\formsJuegos\uFAhorcado.pas</Transaction>
+    <Transaction>2024/03/31 17:05:51.000.542,=C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/03/31 17:07:57.000.091,C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\formsJuegos\uFTetris.dfm=C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\Unit1.dfm</Transaction>
+    <Transaction>2024/03/31 17:07:57.000.091,C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\formsJuegos\uFTetris.pas=C:\Users\Hugo Toraya\Desktop\ProyectoDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/04/03 03:28:26.000.256,=C:\Users\hugot\Desktop\ProyectoDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/04/03 03:30:00.000.353,C:\Users\hugot\Desktop\ProyectoDelphi\alertas\juegoTerminadoGato\Unit1.dfm=C:\Users\hugot\Desktop\ProyectoDelphi\Unit1.dfm</Transaction>
+    <Transaction>2024/04/03 03:30:00.000.353,C:\Users\hugot\Desktop\ProyectoDelphi\alertas\juegoTerminadoGato\Unit1.pas=C:\Users\hugot\Desktop\ProyectoDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/04/03 03:37:27.000.737,C:\Users\hugot\Desktop\ProyectoDelphi\alertas\juegoTerminadoGato\uFJuegoTerminadoGato.dfm=C:\Users\hugot\Desktop\ProyectoDelphi\alertas\juegoTerminadoGato\Unit1.dfm</Transaction>
+    <Transaction>2024/04/03 03:37:27.000.737,C:\Users\hugot\Desktop\ProyectoDelphi\alertas\juegoTerminadoGato\uFJuegoTerminadoGato.pas=C:\Users\hugot\Desktop\ProyectoDelphi\alertas\juegoTerminadoGato\Unit1.pas</Transaction>
+    <Transaction>2024/04/03 22:36:55.000.063,=D:\ProyectoDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/04/03 22:37:20.000.433,D:\ProyectoDelphi\alertas\juegoTerminadoGato\uFMenuGato.dfm=D:\ProyectoDelphi\Unit1.dfm</Transaction>
+    <Transaction>2024/04/03 22:37:20.000.433,D:\ProyectoDelphi\alertas\juegoTerminadoGato\uFMenuGato.pas=D:\ProyectoDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/04/03 22:39:23.000.092,D:\ProyectoDelphi\alertas\alertasGato\uFMenuGato.dfm=D:\ProyectoDelphi\alertas\juegoTerminadoGato\uFMenuGato.dfm</Transaction>
+    <Transaction>2024/04/03 22:39:23.000.092,D:\ProyectoDelphi\alertas\alertasGato\uFMenuGato.pas=D:\ProyectoDelphi\alertas\juegoTerminadoGato\uFMenuGato.pas</Transaction>
+    <Transaction>2024/04/03 22:39:35.000.598,D:\ProyectoDelphi\alertas\alertasGato\uFJuegoTerminadoGato.pas=D:\ProyectoDelphi\alertas\juegoTerminadoGato\uFJuegoTerminadoGato.pas</Transaction>
+    <Transaction>2024/04/03 22:39:35.000.598,D:\ProyectoDelphi\alertas\alertasGato\uFJuegoTerminadoGato.dfm=D:\ProyectoDelphi\alertas\juegoTerminadoGato\uFJuegoTerminadoGato.dfm</Transaction>
+    <Transaction>2024/04/05 17:00:52.000.661,=D:\ProyectoDelphi\Unit2.pas</Transaction>
+    <Transaction>2024/04/05 17:01:44.000.592,D:\ProyectoDelphi\Unit2.dfm=D:\ProyectoDelphi\alertas\alertasAhorcado\uFJuegoTerminadoAhorcado.dfm</Transaction>
+    <Transaction>2024/04/05 17:01:44.000.592,D:\ProyectoDelphi\Unit2.pas=D:\ProyectoDelphi\alertas\alertasAhorcado\uFJuegoTerminadoAhorcado.pas</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="alertas"/>
+    <File Path="alertas\alertasAhorcado"/>
+    <File Path="alertas\alertasAhorcado\uFJuegoTerminadoAhorcado.pas"/>
+    <File Path="alertas\alertasAhorcado\uFJuegoTerminadoAhorcado.dfm"/>
+    <File Path="alertas\alertasGato"/>
+    <File Path="alertas\alertasGato\uFMenuGato.pas"/>
+    <File Path="alertas\alertasGato\uFMenuGato.dfm"/>
+    <File Path="alertas\alertasGato\uFJuegoTerminadoGato.pas"/>
+    <File Path="alertas\alertasGato\uFJuegoTerminadoGato.dfm"/>
+    <File Path="formsJuegos"/>
+    <File Path="formsJuegos\uFAhorcado.pas"/>
+    <File Path="formsJuegos\uFAhorcado.dfm"/>
+    <File Path="formsJuegos\uFGato.pas"/>
+    <File Path="formsJuegos\uFGato.dfm"/>
+    <File Path="formsJuegos\uFTetris.pas"/>
+    <File Path="formsJuegos\uFTetris.dfm"/>
+    <File Path="uFConfig.pas"/>
+    <File Path="uFConfig.dfm"/>
+    <File Path="uFJuegos.pas"/>
+    <File Path="uFJuegos.dfm"/>
+    <File Path="uFProyecto.pas"/>
+    <File Path="uFProyecto.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

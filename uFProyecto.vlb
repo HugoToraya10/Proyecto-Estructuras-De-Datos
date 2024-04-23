@@ -1,0 +1,16 @@
+﻿[sbotonJugar]
+Coordinates=10,78,85,36
+
+[sbotonAjustes]
+Coordinates=210,10,95,36
+
+[sbotonSalir]
+Coordinates=121,10,79,36
+
+[]
+Coordinates=253,1,91,36
+
+[panelMenu]
+Coordinates=10,10,101,58
+Visible=True
+
